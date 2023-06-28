@@ -1,7 +1,10 @@
 # SubspaceMethod
 This code is on Subspace and Difference subspace method frameworks for Motor Imagery EEG classification.
+
 Paper: Data-driven Motor Imagery EEG Classifier using Difference Subspace Method
+
 Authors: C Sivananda Reddy, M Ramasubba Reddy.
+
 Please contact us if you find any issues with this code.
 Email: sivananda.reddi@gmail.com
 
