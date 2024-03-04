@@ -1,4 +1,4 @@
-# SubspaceMethod
+# Data driven SubspaceMethod
 This code is on Subspace and Difference subspace method frameworks for Motor Imagery EEG classification.
 
 Paper: Data-driven Motor Imagery EEG Classifier using Difference Subspace Method
